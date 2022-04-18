@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Célian Frasca
-- 👀 I’m interested in back-end language, SQL, JavaScript
-- 🌱 I’m currently learning Java, Linux
+- 👀 I’m interested in React.JS, SQL, JavaScript
+- 🌱 I’m currently learning CyberSecurity & IOT
 - 📫 How to reach me celianfrasca.pro@gmail.com
 
 <!---
