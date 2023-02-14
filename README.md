@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Célian Frasca
 - 👀 I’m interested in React.JS, SQL, JavaScript
-- 🌱 I’m currently learning CyberSecurity & IOT
+- 🌱 I’m currently learning Java Spring & OPC-UA
 - 📫 How to reach me celianfrasca.pro@gmail.com
 
 <a href="https://app.daily.dev/FrasK"><img src="https://github.com/FrasKc/FrasKc/blob/main/devcard.svg" width="400" alt="Célian Frasca's Dev Card"/></a>
