@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CyberSecurity & IOT
 - 📫 How to reach me celianfrasca.pro@gmail.com
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/fraskc/fraskc/blob/master/devcard.svg" width="400" alt="Célian Frasca's Dev Card"/></a>
+<a href="https://app.daily.dev/FrasK"><img src="https://github.com/fraskc/fraskc/blob/master/devcard.svg" width="400" alt="Célian Frasca's Dev Card"/></a>
 
 <!---
 FrasKc/FrasKc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
